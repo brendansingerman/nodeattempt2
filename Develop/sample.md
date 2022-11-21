@@ -1,5 +1,9 @@
 
-# sfdajkl
+# Project 9
+
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Table of Contents:
 - [Project Description](#Description)
@@ -11,20 +15,20 @@
 - [License](#License)
 
 ## Description
-safdjkl
+This is a project for generating a README file
 
 ##Installation
-fsdajkl
+run npm i
 
 ##Usage
-sadfjkl
+
 
 ##Contributions
-dfgh
+Do as you please with this. I'm sure it might come in handy for whoever would like to use it.
 
 ##Testing
-fgh
+run node index.js
 
 ##Questions
-ghjk
+brendansingerman sdfanjl
 
